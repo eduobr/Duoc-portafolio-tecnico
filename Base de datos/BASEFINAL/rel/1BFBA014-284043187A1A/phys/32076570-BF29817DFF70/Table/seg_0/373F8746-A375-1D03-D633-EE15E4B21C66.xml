@@ -1,0 +1,86 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="RECETA" directorySegmentName="seg_0" id="373F8746-A375-1D03-D633-EE15E4B21C66">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>331E66DD-967A-8621-C3FC-9B1F8AB2E9BD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="ISENTREGADO" id="1DCC4EEE-AADA-F669-42EC-A1102B6D8068">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CODRECETA" id="9CE5CAC6-CC39-DE64-F985-C1BE678AA725">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MEDICAMENTO_CODMEDICAMENTO" id="BE27FA8D-3845-CE20-225E-7130E3CDD74E">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DURACIONMEDICACION" id="C12D0D5A-39FC-CE11-C9A1-0BCC8078D3CA">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PRESCRIPCION_CODPRESCRIPCION" id="EBE130B2-452A-EA92-3D3C-14244C12B1F5">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ISRESERVADO" id="EC6C6644-AF91-C4C9-B63A-534A8DA8F1BD">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CANTIDAD" id="FA2D57E1-36A9-06B9-0E0A-BB19B0E655ED">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="RECETA_PK" id="DEE3B52B-B7A3-BF38-EE4E-0EAB49B40986">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="RECETA_MEDICAMENTO_FK" id="03BECBE8-7B87-77E6-A7BF-C2BE4BDDDA82">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="RECETA_PRESCRIPCION_FK" id="B3CC20B8-CE2A-0931-2FE3-41A72A98A127">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="RECETA_PK" id="B1695856-0CC9-3571-09B3-0019C743658A">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<existingIndex>DEE3B52B-B7A3-BF38-EE4E-0EAB49B40986</existingIndex>
+<indexSegment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

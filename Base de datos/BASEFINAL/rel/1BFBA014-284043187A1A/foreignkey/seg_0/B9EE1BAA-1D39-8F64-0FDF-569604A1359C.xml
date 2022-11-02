@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B9EE1BAA-1D39-8F64-0FDF-569604A1359C" containerWithKeyObject="6FF37E1D-23D2-A0AA-7157-F37B02CF25D5" localFKIndex="1AFCD1F2-44B9-57FC-20A5-3B3540D6F590" name="MERMA_STOCKDISPONIBLE_FK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MERMA_STOCKDISPONIBLE_FK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>F25FAC87-E381-A710-EC36-872BDF9DD849</referredTableID>
+<keyObject>48E72EFC-4F0C-73E2-2507-49545F409B63</keyObject>
+<referredKeyID>48E72EFC-4F0C-73E2-2507-49545F409B63</referredKeyID>
+<mandatory>true</mandatory>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

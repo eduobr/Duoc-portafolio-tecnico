@@ -1,0 +1,119 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F121265F-F954-3928-D84E-871354AA3725" name="MERMA">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>6FF37E1D-23D2-A0AA-7157-F37B02CF25D5</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CODMERMA" id="77123B7B-F8BA-904B-CE6E-AE529AC468DA">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>D236966B-225E-3FE3-D68B-393F991994BB</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<ownDataTypeParameters>,*,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="MOTIVO" id="CAC04320-BFAF-2BAC-3843-1E1ED0FB5539">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>C0546F7D-F5B9-D361-61DF-F88312A354B5</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CANTIDADMAL" id="6EF4C9AB-282F-B787-D4FC-82DE17D94230">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>C9360C23-A1C4-6301-B002-10DE4E1E9EC3</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<ownDataTypeParameters>,*,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="STOCKDISPONIBLE CODSTOCK" id="1B993276-FAB5-9642-F82E-6080EAFB0732">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>F18E661A-B33F-065B-7F87-C4817631CC9A</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<referedAttribute>4741583A-837B-08FA-5C27-20BF599C0A7D</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="FECMERMA" id="4D10A12F-4CE9-EDF0-B0F5-62423EC9659A">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:06:09 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="USUARIO" id="12A7DE0D-645E-97C0-C887-9393941F3923">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:07:49 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45</dataTypeSize>
+<ownDataTypeParameters>45,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="6B78D061-AAFA-F4ED-D17C-EE4CE0E85941" name="MERMA PK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>F2FDEBFC-BE64-7810-AB5A-3625FB40FF39</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>77123B7B-F8BA-904B-CE6E-AE529AC468DA</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

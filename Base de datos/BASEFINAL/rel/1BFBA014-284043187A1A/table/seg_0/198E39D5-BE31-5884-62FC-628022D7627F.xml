@@ -1,0 +1,130 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="198E39D5-BE31-5884-62FC-628022D7627F" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="MEDICAMENTO">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICAMENTO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CODMEDICAMENTO" id="33D99C7F-AED3-02CD-0795-A4FE5781AAD6">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICAMENTO</sourceObjSchema>
+<sourceObjName>CODMEDICAMENTO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOMBRE" id="A8BDB022-E11B-E01D-F2CB-C989B1427427">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICAMENTO</sourceObjSchema>
+<sourceObjName>NOMBRE</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="COMPONENTES" id="6669611E-D3A3-2F65-9767-2758883C157D">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICAMENTO</sourceObjSchema>
+<sourceObjName>COMPONENTES</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150 BYTE</dataTypeSize>
+<ownDataTypeParameters>150 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TIPO" id="1B34708E-C8A6-E9CC-8361-624DBDCC2B3E">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICAMENTO</sourceObjSchema>
+<sourceObjName>TIPO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="GRAMAJE" id="D55795C3-CEBA-4667-3EFF-5DF93C24ECAD">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICAMENTO</sourceObjSchema>
+<sourceObjName>GRAMAJE</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FABRICANTE" id="E3EC1E50-33E6-1A2B-A95F-2B304B38C31A">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICAMENTO</sourceObjSchema>
+<sourceObjName>FABRICANTE</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7B5897C4-2E31-C7A4-045B-4994EA4A61BF" name="MEDICAMENTO_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICAMENTO_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="33D99C7F-AED3-02CD-0795-A4FE5781AAD6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D5784B25-1B1D-0E84-DCA2-B0CEEB8C1A0E" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="MEDICAMENTO_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICAMENTO_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="33D99C7F-AED3-02CD-0795-A4FE5781AAD6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,142 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="5263092F-0FD4-DB3A-3969-27F01EBA988C" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="RESERVA">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RESERVA</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CODRESERVA" id="E38BCDE2-017D-398E-8768-941EE2F5F3D6">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RESERVA</sourceObjSchema>
+<sourceObjName>CODRESERVA</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CANTIDADRESERVADA" id="8DF888EC-F3E6-EEF9-83CB-954045B193DF">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RESERVA</sourceObjSchema>
+<sourceObjName>CANTIDADRESERVADA</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FECENTREGA" id="3398E024-4E8F-0046-0B30-32E20C5E9406">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RESERVA</sourceObjSchema>
+<sourceObjName>FECENTREGA</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MEDICAMENTO_CODMEDICAMENTO" id="AA6A2405-1FC2-8577-2520-CDB22B8AFDBC">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RESERVA</sourceObjSchema>
+<sourceObjName>MEDICAMENTO_CODMEDICAMENTO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="92672825-2376-23A8-1581-F968E481D466" referredColumn="33D99C7F-AED3-02CD-0795-A4FE5781AAD6"/>
+</associations>
+</Column>
+<Column name="PACIENTE_RUT" id="7856A46B-6670-6F08-01E6-8CDFE77BEA91">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RESERVA</sourceObjSchema>
+<sourceObjName>PACIENTE_RUT</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>13 BYTE</dataTypeSize>
+<ownDataTypeParameters>13 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9DA8ACB2-B36E-108A-00B4-931676962E22" referredColumn="E0B3CE9A-6EF4-A40A-DA0E-26BCEF4D91C9"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0FA22EDD-25A9-CFBD-E1E1-FC9AA49A41D9" name="RESERVA_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RESERVA_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E38BCDE2-017D-398E-8768-941EE2F5F3D6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CBEE58DF-D524-B3F2-881F-1D2926979B5F" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="RESERVA_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RESERVA_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E38BCDE2-017D-398E-8768-941EE2F5F3D6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="92C897E6-0DDD-5129-7ACF-21EA476440A5" name="RESERVA_MEDICAMENTO_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="AA6A2405-1FC2-8577-2520-CDB22B8AFDBC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="617F7584-2458-AB99-ECB8-48A87F1D21C9" name="RESERVA_PACIENTE_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7856A46B-6670-6F08-01E6-8CDFE77BEA91"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

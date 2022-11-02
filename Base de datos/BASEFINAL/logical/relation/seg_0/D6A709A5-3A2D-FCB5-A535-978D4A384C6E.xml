@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="RESERVA_PACIENTE_FK" directorySegmentName="seg_0" id="D6A709A5-3A2D-FCB5-A535-978D4A384C6E">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>9DA8ACB2-B36E-108A-00B4-931676962E22</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<sourcePk>21DA6019-5004-D892-136C-5C5F1D853EF8</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>FD3C5905-DD70-E78E-435B-C185B4928AA3</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>62559CC9-00E3-7C36-493E-28515F493B33</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

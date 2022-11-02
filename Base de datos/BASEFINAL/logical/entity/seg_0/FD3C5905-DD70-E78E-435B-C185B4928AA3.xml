@@ -1,0 +1,149 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="FD3C5905-DD70-E78E-435B-C185B4928AA3" name="PACIENTE">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>B1CDE5C7-6E0B-54FE-8E5A-AD6411A72A24</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="RUT" id="15FB2FD7-4CEC-6713-3CFB-500A650F8CB8">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>E0B3CE9A-6EF4-A40A-DA0E-26BCEF4D91C9</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>13 BYTE</dataTypeSize>
+<ownDataTypeParameters>13 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NOMBRE" id="BFD3434E-9A1B-FF68-3425-0FE480EAFBB7">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>DCA1B6C0-B1FA-10AA-C86F-353CC1497CEC</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="APELLIDOP" id="BE1E60B7-888C-673C-B829-EE886B4D9C52">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>6A1FE22F-6682-B266-0353-C5CC0424BFB0</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="APELLIDOM" id="891B907F-E343-D0D4-80C2-6522EE1F04F2">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>B84C8345-1B87-6868-BCE4-24ABBB7A2E7E</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="EDAD" id="96A71020-24EC-6EEF-0190-1444F36DFE7A">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>B93FD281-C487-F94D-0D72-F9DEC82E8720</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TELEFONO" id="447975A6-4E73-5271-CB2C-0995E3C071EA">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>D1E85DE7-4F8F-61E2-FAFA-0359E5434E08</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15 BYTE</dataTypeSize>
+<ownDataTypeParameters>15 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="EMAIL" id="28AF3A9E-27AB-ACA4-2FD6-8F20EABB8927">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>F83E0D77-467C-B1EB-8C6C-31866D011A1C</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DIRECCION" id="1B5A6AFA-6474-ED8E-A9BF-84497B8D0C88">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>4FF29D40-E2B1-F7C6-0BEC-6BC1901BDE00</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>85 BYTE</dataTypeSize>
+<ownDataTypeParameters>85 BYTE,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="21DA6019-5004-D892-136C-5C5F1D853EF8" name="PACIENTE PK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>7C906E25-89E2-85E4-F60A-95545452528B</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>15FB2FD7-4CEC-6713-3CFB-500A650F8CB8</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

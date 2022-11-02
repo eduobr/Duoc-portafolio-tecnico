@@ -1,0 +1,141 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="50A0B837-E271-D617-251F-A9165A44F9DE" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="ATENCION">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>ATENCION</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:13 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_ATENCION" id="D7EE2DF7-CB2B-EC50-D6CD-DFD595CC8D61">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>ATENCION</sourceObjSchema>
+<sourceObjName>ID_ATENCION</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="BOX" id="E2F8FA52-3EBD-7370-A7C8-53C30E5213FF">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>ATENCION</sourceObjSchema>
+<sourceObjName>BOX</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FECATENCION" id="6D58D68D-D26E-DE71-A15B-393B3C631347">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>ATENCION</sourceObjSchema>
+<sourceObjName>FECATENCION</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150 BYTE</dataTypeSize>
+<ownDataTypeParameters>150 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PACIENTE_RUT" id="A1E0FA67-4049-E136-007F-BA91E357DAAD">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>ATENCION</sourceObjSchema>
+<sourceObjName>PACIENTE_RUT</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>13 BYTE</dataTypeSize>
+<ownDataTypeParameters>13 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F477B319-5EB6-09C3-39D5-3D0E16F30E40" referredColumn="E0B3CE9A-6EF4-A40A-DA0E-26BCEF4D91C9"/>
+</associations>
+</Column>
+<Column name="MEDICO_RUT" id="6D489EB1-64D1-B5EE-4206-6ADCF2FDC49D">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>ATENCION</sourceObjSchema>
+<sourceObjName>MEDICO_RUT</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>13 BYTE</dataTypeSize>
+<ownDataTypeParameters>13 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2C0C5F24-4E62-93C4-2CAD-F2BA086D3C68" referredColumn="39F6F9EF-6D7B-F323-7C1D-B2A5E83284A7"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1EAB5D71-0ECF-318A-0A54-035B80037808" name="ATENCION_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>ATENCION_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D7EE2DF7-CB2B-EC50-D6CD-DFD595CC8D61"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BA723B19-B431-B6C9-8AA9-C6DF0B6A92EB" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="ATENCION_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>ATENCION_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D7EE2DF7-CB2B-EC50-D6CD-DFD595CC8D61"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="F7ED325A-B597-368C-998C-6F588F033B73" name="ATENCION_MEDICO_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6D489EB1-64D1-B5EE-4206-6ADCF2FDC49D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="FA42F9E8-56C7-7B36-CA27-C12686CA2F11" name="ATENCION_PACIENTE_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A1E0FA67-4049-E136-007F-BA91E357DAAD"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,69 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="MEDICAMENTO" directorySegmentName="seg_0" id="198E39D5-BE31-5884-62FC-628022D7627F">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>331E66DD-967A-8621-C3FC-9B1F8AB2E9BD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="TIPO" id="1B34708E-C8A6-E9CC-8361-624DBDCC2B3E">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CODMEDICAMENTO" id="33D99C7F-AED3-02CD-0795-A4FE5781AAD6">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMPONENTES" id="6669611E-D3A3-2F65-9767-2758883C157D">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="NOMBRE" id="A8BDB022-E11B-E01D-F2CB-C989B1427427">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GRAMAJE" id="D55795C3-CEBA-4667-3EFF-5DF93C24ECAD">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="FABRICANTE" id="E3EC1E50-33E6-1A2B-A95F-2B304B38C31A">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="MEDICAMENTO_PK" id="D5784B25-1B1D-0E84-DCA2-B0CEEB8C1A0E">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="MEDICAMENTO_PK" id="7B5897C4-2E31-C7A4-045B-4994EA4A61BF">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<existingIndex>D5784B25-1B1D-0E84-DCA2-B0CEEB8C1A0E</existingIndex>
+<indexSegment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

@@ -1,0 +1,166 @@
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\bin\Debug\Vista.exe.config
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\MainWindow.g.cs
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\App.g.cs
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\bin\Debug\Vista.exe
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\bin\Debug\Vista.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\MainWindow.baml
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista.g.resources
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista.exe
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Vista.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Menu.g.cs
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\Menu.baml
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\IngresoStock.g.cs
+C:\Users\LC1300XXXX\Desktop\Cesfam\Vista\obj\Debug\IngresoStock.baml
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\Vista.exe.config
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\Vista.exe
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\Vista.pdb
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\MahApps.Metro.dll
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\System.Windows.Interactivity.dll
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\MahApps.Metro.pdb
+E:\Portafolio de titulo\Cesfam\Vista\bin\Debug\MahApps.Metro.xml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Resources\Icons.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Resources\IconsNonShared.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\BajaMedicamentos.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\EntregaMedicamentos.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\InformeStock.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\IngresoStock.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\MainWindow.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Menu.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\App.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.cache
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.lref
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\App.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\BajaMedicamentos.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\EntregaMedicamentos.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\InformeStock.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\IngresoStock.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\MainWindow.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Menu.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista.g.resources
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista.exe
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista.pdb
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\IngresoMedicamento.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\IngresoMedicamento.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\InformeMedicamentosReservados.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\PrescripcionesPendientes.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\RevisarPrescripcion.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\InformeMedicamentosReservados.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\PrescripcionesPendientes.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\RevisarPrescripcion.baml
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Principal.g.cs
+E:\Portafolio de titulo\Cesfam\Vista\obj\Debug\Principal.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\Vista.exe.config
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista.exe
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista.pdb
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\Vista.exe
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\Vista.pdb
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\MahApps.Metro.dll
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\MahApps.Metro.pdb
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\bin\Debug\MahApps.Metro.xml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Resources\Icons.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\MainWindow.g.cs
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Principal.g.cs
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\RevisarPrescripcion.g.cs
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\App.g.cs
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.cache
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.lref
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\App.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\MainWindow.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Principal.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\RevisarPrescripcion.baml
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista.g.resources
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\LC1300XXXX\Downloads\Cesfam\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\Vista.exe.config
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.exe
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.pdb
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\Vista.exe
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\Vista.pdb
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\MahApps.Metro.dll
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\System.Windows.Interactivity.dll
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\MahApps.Metro.pdb
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\MahApps.Metro.xml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Resources\Icons.baml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Resources\IconsNonShared.baml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\MainWindow.g.cs
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Principal.g.cs
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\RevisarPrescripcion.g.cs
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\App.g.cs
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.cache
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.lref
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\App.baml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\MainWindow.baml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Principal.baml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\RevisarPrescripcion.baml
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.g.resources
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\lovey\Desktop\PENDRIVE  2 AÑO\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\Vista.exe.config
+E:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\Vista.exe.config
+E:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.exe
+E:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\obj\Debug\Vista.pdb
+F:\5to\Portafolio de Titulo\proyecto\nett\Cesfam\Vista\bin\Debug\Oracle.DataAccess.dll
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Vista.exe.config
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.exe
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.pdb
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Vista.exe
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Vista.pdb
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\MahApps.Metro.dll
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Oracle.DataAccess.dll
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\System.Windows.Interactivity.dll
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\MahApps.Metro.pdb
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\MahApps.Metro.xml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Resources\Icons.baml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Resources\IconsNonShared.baml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\MainWindow.g.cs
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Principal.g.cs
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\RevisarPrescripcion.g.cs
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\App.g.cs
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.cache
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.lref
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\App.baml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\MainWindow.baml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Principal.baml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\RevisarPrescripcion.baml
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.g.resources
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Vista.exe.config
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.exe
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Vista.exe
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Vista.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\MahApps.Metro.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\Oracle.DataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\System.Windows.Interactivity.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\MahApps.Metro.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\bin\Debug\MahApps.Metro.xml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Resources\Icons.baml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Resources\IconsNonShared.baml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\MainWindow.g.cs
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Principal.g.cs
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\RevisarPrescripcion.g.cs
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\App.g.cs
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.cache
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista_MarkupCompile.lref
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\App.baml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\MainWindow.baml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Principal.baml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\RevisarPrescripcion.baml
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.g.resources
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Presentacion 1 Portafolio\Cesfam 25-04-2017\Cesfam\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache

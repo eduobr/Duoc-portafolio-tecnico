@@ -1,0 +1,79 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="PACIENTE" directorySegmentName="seg_0" id="B1CDE5C7-6E0B-54FE-8E5A-AD6411A72A24">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>331E66DD-967A-8621-C3FC-9B1F8AB2E9BD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="DIRECCION" id="4FF29D40-E2B1-F7C6-0BEC-6BC1901BDE00">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="APELLIDOP" id="6A1FE22F-6682-B266-0353-C5CC0424BFB0">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="APELLIDOM" id="B84C8345-1B87-6868-BCE4-24ABBB7A2E7E">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="EDAD" id="B93FD281-C487-F94D-0D72-F9DEC82E8720">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TELEFONO" id="D1E85DE7-4F8F-61E2-FAFA-0359E5434E08">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="NOMBRE" id="DCA1B6C0-B1FA-10AA-C86F-353CC1497CEC">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="RUT" id="E0B3CE9A-6EF4-A40A-DA0E-26BCEF4D91C9">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="EMAIL" id="F83E0D77-467C-B1EB-8C6C-31866D011A1C">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="PACIENTE_PK" id="8027DA59-21D9-340E-9513-9CC5D4942BCE">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PACIENTE_PK" id="7C906E25-89E2-85E4-F60A-95545452528B">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<existingIndex>8027DA59-21D9-340E-9513-9CC5D4942BCE</existingIndex>
+<indexSegment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

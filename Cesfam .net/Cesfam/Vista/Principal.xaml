@@ -1,0 +1,504 @@
+﻿<Controls:MetroWindow x:Class="Vista.Principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vista"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Principal" Height="542" Width="826">
+    <Grid>
+        <Controls:MetroTabControl Name="TCMain">
+            <Controls:MetroTabItem Header="0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20*"/>
+                        <ColumnDefinition Width="389*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+
+                    <Controls:Tile x:Name="ctlIngresar" Margin="10,98,0,0" Height="122" Width="175" Background="#CC19C0FF" Title="Ingresar Medicamento" RenderTransformOrigin="-11,0.5" FontStyle="Italic" MouseEnter="ctlIngresar_MouseEnter" MouseLeave="ctlIngresar_MouseLeave" BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalTitleAlignment="Center" VerticalTitleAlignment="Stretch" Click="ctlIngresar_Click" Grid.ColumnSpan="2">
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Img\agregar-medicamento.png" Height="44" Width="90" />
+                    </Controls:Tile>
+                    <Controls:Tile x:Name="ctlBaja" Margin="210.891,98,392,0" Height="122" Width="Auto" Background="#CC19C0FF" Title="Baja Medicamento" RenderTransformOrigin="-11,0.5" FontStyle="Italic" HorizontalTitleAlignment="Center" VerticalAlignment="Top" VerticalTitleAlignment="Stretch" MouseEnter="ctlBaja_MouseEnter" MouseLeave="ctlBaja_MouseLeave" BorderBrush="Black" Click="ctlBaja_Click" Grid.Column="1">
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Img\baja-medicamento.png" Height="44" Width="90"/>
+                    </Controls:Tile>
+                    <Controls:Tile x:Name="ctlInformeStock" Margin="210.891,271,0,0" Height="122" Width="175" Background="#CC19C0FF" Title="Informe Stock" RenderTransformOrigin="-11,0.5" FontStyle="Italic" VerticalTitleAlignment="Stretch" HorizontalAlignment="Left" HorizontalTitleAlignment="Center" VerticalAlignment="Top" BorderBrush="#FF060505" MouseEnter="ctlInformeStock_MouseEnter" MouseLeave="ctlInformeStock_MouseLeave" Click="ctlInformeStock_Click" Grid.Column="1">
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Img/stock.png" Height="44" Width="90"/>
+                    </Controls:Tile>
+                    <Controls:Tile x:Name="ctlRevisar" Margin="40,271,0,0" Height="122" Width="176" Background="#CC19C0FF" Title="Revisar Preescripcion" RenderTransformOrigin="-11,0.5" FontStyle="Italic" HorizontalTitleAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" VerticalTitleAlignment="Stretch" MouseEnter="ctlRevisar_MouseEnter" MouseLeave="ctlRevisar_MouseLeave" BorderBrush="#FF040404" Click="ctlRevisar_Click" Grid.ColumnSpan="2">
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Img/prescripcion.png" Height="44" Width="90"/>
+                    </Controls:Tile>
+                    <Controls:Tile x:Name="ctlInforme" Margin="409.891,271,0,0" Height="122" Width="176" Background="#CC19C0FF" Title="Informe Medicamentos Reservado" RenderTransformOrigin="-11,0.5" FontStyle="Italic" MouseEnter="ctlInforme_MouseEnter" MouseLeave="ctlInforme_MouseLeave" BorderBrush="#FF020202" VerticalTitleAlignment="Stretch" HorizontalTitleAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Click="ctlInforme_Click" Grid.Column="1">
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Img/informe-reservados.png" Height="44" Width="90"/>
+                    </Controls:Tile>
+                    <Canvas Margin="0,0,0,434" Grid.ColumnSpan="2">
+                        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="62" Stroke="Black" VerticalAlignment="Top" Width="818" Opacity="0.8"/>
+                        <Label x:Name="lblTitulo" Content="Menu" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Height="62" Width="445" FontWeight="Bold" FontSize="36" FontFamily="Rockwell Extra Bold" Canvas.Left="10"/>
+
+                    </Canvas>
+                    <Rectangle x:Name="abrir_usuario" HorizontalAlignment="Left" Height="33" Margin="724.891,437,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario_MouseEnter" Fill="#FFFFFEFE" Opacity="0" Grid.Column="1"/>
+                    <Controls:Tile x:Name="ctlIngresarStock" Margin="435.891,98,0,0" Height="122" Width="175" Background="#CC19C0FF" Title="Ingresar Stock" RenderTransformOrigin="-11,0.5" FontStyle="Italic" VerticalTitleAlignment="Stretch" HorizontalAlignment="Left" HorizontalTitleAlignment="Center" VerticalAlignment="Top" BorderBrush="#FF060505" MouseEnter="ctlInformeStock_MouseEnter" MouseLeave="ctlInformeStock_MouseLeave" Grid.Column="1">
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Img/stock.png" Height="44" Width="90"/>
+                    </Controls:Tile>
+                    <Controls:Flyout x:Name="flyUsuario" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right" Grid.Column="1">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imUser" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion_Click"/>
+                            <TextBox x:Name="txtUserr" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" Canvas.Left="10" Canvas.Top="77" BorderThickness="0"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                    <Label x:Name="label2" Content="Label" Grid.Column="1" HorizontalAlignment="Left" Height="13" Margin="185,411,0,0" VerticalAlignment="Top" Width="39" RenderTransformOrigin="0.5,0.5">
+                        <Label.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-3.572"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Label.RenderTransform>
+                    </Label>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="1">
+                <Grid Margin="0,0,-2,4">
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Controls:Flyout x:Name="flyUsuario1" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right" Margin="0,0,0.001,-1.995">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imUser1" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion1" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion1_Click"/>
+                            <TextBox x:Name="txtUserr1" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" BorderThickness="0" Canvas.Left="30" Canvas.Top="77"/>
+                            <TextBox x:Name="txtUserr1_Copy" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" BorderThickness="0" Canvas.Left="30" Canvas.Top="96"/>
+                            <TextBox x:Name="txtUserr1_Copy1" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" BorderThickness="0" Canvas.Left="38" Canvas.Top="101"/>
+                        </Canvas>
+                    </Controls:Flyout>
+
+                    <Label x:Name="lblNombreMedicamento" Content="Nombre Medicamento" HorizontalAlignment="Left" Margin="185,53,0,0" VerticalAlignment="Top" FontSize="10" FontStyle="Italic" Foreground="#FFFFF3F3">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <Label x:Name="lblTipo" Content="Tipo" HorizontalAlignment="Left" Margin="187,99,0,0" VerticalAlignment="Top" FontSize="10" FontStyle="Italic" Foreground="#FFFFF3F3">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <Label x:Name="lblContenido" Content="Componentes" HorizontalAlignment="Left" Margin="185,171,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.044,0.192" FontSize="10" FontStyle="Italic" Foreground="#FFFFF3F3">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <Label x:Name="lblGramaje" Content="Gramaje" HorizontalAlignment="Left" Margin="185,318,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.149,-0.026" FontSize="10" FontStyle="Italic" Foreground="#FFFFF3F3">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <Button x:Name="btnIngresarMed" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="202,387,0,0" VerticalAlignment="Top" Width="121" Height="23" FontSize="10" Background="#FF252323" Foreground="#FFE2DCDC" Opacity="0.8" Click="btnIngresarMed_Click"/>
+                    <TextBox x:Name="txtGramaje" HorizontalAlignment="Left" Height="23" Margin="291,318,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" FontSize="9" RenderTransformOrigin="-0.321,5"/>
+                    <TextBox x:Name="txtComponentes" HorizontalAlignment="Left" Height="124" Margin="291,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+
+                    <Grid HorizontalAlignment="Left" Height="475" VerticalAlignment="Top" Width="179" Background="#FF0F0F0F" Opacity="0.9" Margin="0,0,0,-9.473">
+                        <Button x:Name="btnIngresarMedicamento1_Copy" Content="" Margin="0,16.333,44.667,0" VerticalAlignment="Top" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" HorizontalAlignment="Right" Width="29" Click="btnIngresarMedicamento1_Copy_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="btnStockM_1" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Copy5_Click" MouseEnter="btnStockM_Copy5_MouseEnter" MouseLeave="btnStockM_Copy5_MouseLeave"/>
+                    </Grid>
+                    <Grid Margin="19,15,679,425">
+                        <Label x:Name="label9" Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3"/>
+                    </Grid>
+                    <Button x:Name="btnIngresarMedicamento1" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento1_Click" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave">
+                        <Button.Background>
+                            <ImageBrush/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:Name="btnBajaMedicamento1" Content="Baja de Medicamento" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento1_Click" MouseEnter="btnBajaMedicamento1_MouseEnter" MouseLeave="btnBajaMedicamento1_MouseLeave"/>
+                    <Button x:Name="btnInformeStock1" Content="Informe de Stock" HorizontalAlignment="Left" Margin="0,142,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock1_Click" MouseEnter="btnInformeStock1_MouseEnter" MouseLeave="btnInformeStock1_MouseLeave"/>
+                    <Button x:Name="btnRevisarPrescripcion1" Content="Revisar Prescripcion" HorizontalAlignment="Left" Margin="0,171,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion1_Click" MouseEnter="btnRevisarPrescripcion1_MouseEnter" MouseLeave="btnRevisarPrescripcion1_MouseLeave"/>
+                    <Button x:Name="btnMedicamentoReservado1" Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="0,199,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado1_Click" MouseEnter="btnMedicamentoReservado1_MouseEnter" MouseLeave="btnMedicamentoReservado1_MouseLeave"/>
+                    <TextBox x:Name="txtTipo" HorizontalAlignment="Left" Height="23" Margin="291,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" FontSize="9" RenderTransformOrigin="-0.321,5"/>
+                    <TextBox x:Name="txtMedicamento" HorizontalAlignment="Left" Height="23" Margin="292,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" FontSize="9" RenderTransformOrigin="-0.321,5"/>
+                    <Rectangle x:Name="abrir_usuario1" HorizontalAlignment="Left" Height="33" Margin="767,433,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario1_MouseEnter" Fill="#FFFFFEFE" Opacity="0"/>
+                    <TextBox x:Name="txtUserr_Copy" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderThickness="0" Margin="700,168,0,0"/>
+                    <TextBox x:Name="txtUserr_Copy1" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderThickness="0" Margin="32,77,0,0"/>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem  HorizontalAlignment="Right" Width="24.377" Header="2">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="118"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Label x:Name="label_Copy1" Content="Cantidad" HorizontalAlignment="Left" Margin="64,146,0,0" VerticalAlignment="Top" FontSize="10" Foreground="#FFFFF8F8" Grid.Column="1"/>
+                    <TextBox x:Name="txtCantidad2" HorizontalAlignment="Left" Height="17" Margin="273,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57" FontSize="9" Grid.Column="1"/>
+                    <Button x:Name="btnDarBaja" Content="Dar de Baja " HorizontalAlignment="Left" Margin="248,180,0,0" VerticalAlignment="Top" Width="82" FontSize="10" Background="#FF0A0909" Opacity="0.8" Foreground="#FFD8D8D8" Click="btnDarBaja_Click_1" Grid.Column="1" d:LayoutOverrides="HorizontalAlignment"/>
+                    <Grid Height="470" VerticalAlignment="Top" Background="#FF0F0F0F" Opacity="0.9" Margin="0,0,-59,-1.473">
+                        <Button x:Name="btnIngresarMedicamento1_Copy1" Content="" Margin="0,15.666,44,0" VerticalAlignment="Top" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" HorizontalAlignment="Right" Width="29" RenderTransformOrigin="0.046,0.27" Click="btnIngresarMedicamento1_Copy1_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="btnStockM_2" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="177" Height="25" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Copy4_Click" MouseEnter="btnStockM_Copy4_MouseEnter" MouseLeave="btnStockM_Copy4_MouseLeave"/>
+                    </Grid>
+                    <Canvas Margin="-111,15,545,236" Grid.Column="1">
+                        <Label  Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="10"/>
+                    </Canvas>
+                    <Button x:Name="btnIngresarMedicamento2" Content="Ingresar Medicamento" Margin="0,59,-59,0" VerticalAlignment="Top" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento2_Click" MouseEnter="btnIngresarMedicamento2_MouseEnter" MouseLeave="btnIngresarMedicamento2_MouseLeave"/>
+                    <Button x:Name="btnBajaMedicamento2" Content="Baja de Medicamento" Margin="0,87,-59,0" VerticalAlignment="Top" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento2_Click" MouseEnter="btnBajaMedicamento2_MouseEnter" MouseLeave="btnBajaMedicamento2_MouseLeave"/>
+                    <Button x:Name="btnInformeStock2" Content="Informe de Stock" Margin="0,147,650,0" VerticalAlignment="Top" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock2_Click" MouseEnter="btnInformeStock2_MouseEnter" MouseLeave="btnInformeStock2_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnRevisarPrescripcion2" Content="Revisar Prescripcion" Margin="0,175,650,0" VerticalAlignment="Top" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion2_Click" MouseEnter="btnRevisarPrescripcion2_MouseEnter" MouseLeave="btnRevisarPrescripcion2_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnMedicamentoReservado2" Content="Informe Medicamentos Reservados" Margin="0,203,650,0" VerticalAlignment="Top" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado2_Click" MouseEnter="btnMedicamentoReservado2_MouseEnter" MouseLeave="btnMedicamentoReservado2_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Rectangle Fill="Black" HorizontalAlignment="Left" Height="29" Stroke="Black" VerticalAlignment="Top" Width="639" Opacity="0.8" Margin="59,0,0,0" Grid.Column="1"/>
+                    <Label Content="Dar de baja Medicamento" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Height="29" Width="272" FontWeight="Bold" FontSize="16" FontFamily="Rockwell Extra Bold" Margin="58,0,0,0" Grid.Column="1" d:LayoutOverrides="HorizontalAlignment"/>
+                    <Rectangle x:Name="abrir_usuario2" HorizontalAlignment="Left" Height="33" Margin="645,437,0,-1.473" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario2_MouseEnter" Fill="White" Opacity="0" Grid.Column="1"/>
+                    <Controls:Flyout x:Name="flyUsuario2" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right" Grid.Column="1">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imgUser2" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion2" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion2_Click"/>
+                            <TextBox x:Name="txtUserr2" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" BorderThickness="0" Canvas.Left="29" Canvas.Top="96"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                    <Label x:Name="label_Copy" Content="Codigo" HorizontalAlignment="Left" Margin="64,102,0,0" VerticalAlignment="Top" FontSize="10" Foreground="#FFFFF8F8" Grid.Column="1"/>
+                    <TextBox x:Name="txtCodigo1" HorizontalAlignment="Left" Height="17" Margin="273,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57" FontSize="9" Grid.Column="1"/>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="3">
+                <Grid>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Label Content="Generar Por" HorizontalAlignment="Left" Margin="236,41,0,0" VerticalAlignment="Top" Foreground="#FFFFEEEE" FontStyle="Italic">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <ComboBox x:Name="cbGenerar" HorizontalAlignment="Left" Margin="314,41,0,0" VerticalAlignment="Top" Width="140"/>
+                    <Button x:Name="button" Content="Generar Informe" HorizontalAlignment="Left" Margin="314,239,0,0" VerticalAlignment="Top" Width="120" Height="21" FontSize="10"/>
+                    <Grid HorizontalAlignment="Left" Height="137" Margin="198,87,0,0" VerticalAlignment="Top" Width="379" Background="#FFE2C8C8" Opacity="0.36"/>
+                    <Grid HorizontalAlignment="Left" Height="470" VerticalAlignment="Top" Width="179" Background="#FF0F0F0F" Opacity="0.9">
+                        <Button x:Name="btnIngresarMedicamento1_Copy2" Content="" Margin="0,16.333,44.667,0" VerticalAlignment="Top" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" HorizontalAlignment="Right" Width="29" Click="btnIngresarMedicamento1_Copy2_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="btnStockM_3" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Copy3_Click" MouseEnter="btnStockM_Copy3_MouseEnter" MouseLeave="btnStockM_Copy3_MouseLeave"/>
+                    </Grid>
+                    <Canvas Margin="9,15,668,431">
+                        <Label Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="10"/>
+                    </Canvas>
+                    <Button x:Name="btnIngresarMedicamento3" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento3_Click" MouseEnter="btnIngresarMedicamento3_MouseEnter" MouseLeave="btnIngresarMedicamento3_MouseLeave"/>
+                    <Button x:Name="btnBajaMedicamento3" Content="Baja de Medicamento" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento3_Click" MouseEnter="btnBajaMedicamento3_MouseEnter" MouseLeave="btnBajaMedicamento3_MouseLeave"/>
+                    <Button x:Name="btnInformeStock3" Content="Informe de Stock" HorizontalAlignment="Left" Margin="0,145,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock3_Click" MouseEnter="btnInformeStock3_MouseEnter" MouseLeave="btnInformeStock3_MouseLeave"/>
+                    <Button x:Name="btnRevisarPrescripcion3" Content="Revisar Prescripcion" HorizontalAlignment="Left" Margin="0,173,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion3_Click" MouseEnter="btnRevisarPrescripcion3_MouseEnter" MouseLeave="btnRevisarPrescripcion3_MouseLeave"/>
+                    <Button x:Name="btnMedicamentoReservado3" Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="0,201,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado3_Click" MouseEnter="btnMedicamentoReservado3_MouseEnter" MouseLeave="btnMedicamentoReservado3_MouseLeave"/>
+                    <Rectangle x:Name="abrir_usuario3" HorizontalAlignment="Left" Height="33" Margin="755,427,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario3_MouseEnter" Fill="White" Opacity="0"/>
+                    <Controls:Flyout x:Name="flyUsuario3" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imgUser3" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion3" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion3_Click"/>
+                            <TextBox x:Name="txtUserr3" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" BorderThickness="0" Canvas.Left="10" Canvas.Top="77"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem  Header="4">
+                <Grid>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Label x:Name="label9_Copy" Content="Prescripciones Pendientes" HorizontalAlignment="Left" VerticalAlignment="Top" Width="233" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="270" FontWeight="Bold" FontSize="18" Canvas.Top="18" FontStyle="Italic" Margin="288,48,0,0">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                    <Grid HorizontalAlignment="Left" Height="470" VerticalAlignment="Top" Width="179" Background="#FF0F0F0F" Opacity="0.9">
+                        <Button x:Name="btnIngresarMedicamento1_Copy3" Content="" Margin="0,16.333,44.667,0" VerticalAlignment="Top" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" HorizontalAlignment="Right" Width="29" Click="btnIngresarMedicamento1_Copy3_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="btnStockM_4" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Copy2_Click" MouseEnter="btnStockM_Copy2_MouseEnter" MouseLeave="btnStockM_Copy2_MouseLeave"/>
+                    </Grid>
+                    <Canvas Margin="9,15,668,431">
+                        <Label Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="10"/>
+                    </Canvas>
+                    <Button x:Name="btnIngresarMedicamento4" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento4_Click" MouseEnter="btnIngresarMedicamento4_MouseEnter" MouseLeave="btnIngresarMedicamento4_MouseLeave"/>
+                    <Button x:Name="btnBajaMedicamento4" Content="Baja de Medicamento" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento4_Click" MouseEnter="btnBajaMedicamento4_MouseEnter" MouseLeave="btnBajaMedicamento4_MouseLeave"/>
+                    <Button x:Name="btnInformeStock4" Content="Informe de Stock" HorizontalAlignment="Left" Margin="0,144,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock4_Click" MouseEnter="btnInformeStock4_MouseEnter" MouseLeave="btnInformeStock4_MouseLeave"/>
+                    <Button x:Name="btnRevisarPrescripcion4" Content="Revisar Prescripcion" HorizontalAlignment="Left" Margin="0,172,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion4_Click" MouseEnter="btnRevisarPrescripcion4_MouseEnter" MouseLeave="btnRevisarPrescripcion4_MouseLeave"/>
+                    <Button x:Name="btnMedicamentoReservado4" Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="0,200,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado4_Click" MouseEnter="btnMedicamentoReservado4_MouseEnter" MouseLeave="btnMedicamentoReservado4_MouseLeave"/>
+                    <Rectangle x:Name="abrir_usuario4" HorizontalAlignment="Left" Height="33" Margin="765,437,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario4_MouseEnter" Fill="White" Opacity="0"/>
+                    <TextBox x:Name="txtUserr8_Copy1" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" BorderThickness="0" Margin="638,254,0,0"/>
+                    <Button x:Name="btnPrescripcion" Content="Ver Prescripciones" HorizontalAlignment="Left" Margin="378,358,0,0" VerticalAlignment="Top" Width="169" Click="btnPrescripcion_Click"/>
+                    <ListView x:Name="lstPrescripciones" HorizontalAlignment="Left" Height="230" Margin="244,100,0,0" VerticalAlignment="Top" Width="420" IsSynchronizedWithCurrentItem="False"/>
+                    <Controls:Flyout x:Name="flyUsuario4" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imgUser4" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion4" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion4_Click"/>
+                            <TextBox x:Name="txtUserr8_Copy2" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" BorderThickness="0" Canvas.Left="30" Canvas.Top="77"/>
+                            <TextBox x:Name="txtUserr8" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" BorderThickness="0" Canvas.Left="30" Canvas.Top="77"/>
+                            <TextBox x:Name="txtUserr4" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderThickness="0" Canvas.Left="28" Canvas.Top="77"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                    <Button x:Name="btnItemSeleccion" Content="Item Seleccionado" HorizontalAlignment="Left" Margin="378,417,0,0" VerticalAlignment="Top" Width="169" Click="btnItemSeleccion_Click"/>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="5">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="161*"/>
+                        <ColumnDefinition Width="657*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Grid HorizontalAlignment="Left" Height="470" VerticalAlignment="Top" Width="179" Background="#FF0F0F0F" Opacity="0.9" Grid.ColumnSpan="2">
+                        <Button x:Name="btnStockM_5" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Copy1_Click" MouseEnter="btnStockM_Copy1_MouseEnter" MouseLeave="btnStockM_Copy1_MouseLeave"/>
+                    </Grid>
+                    <Canvas Margin="9,15,11,431">
+                        <Label Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="10"/>
+                        <Button x:Name="btnIngresarMedicamento1_Copy4" Content="" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" Width="29" Canvas.Left="94.333" Click="btnIngresarMedicamento1_Copy4_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                    </Canvas>
+                    <Button x:Name="btnIngresarMedicamento5" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento5_Click" MouseEnter="btnIngresarMedicamento5_MouseEnter" MouseLeave="btnIngresarMedicamento5_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnBajaMedicamento5" Content="Baja de Medicamento" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento5_Click" MouseEnter="btnBajaMedicamento5_MouseEnter" MouseLeave="btnBajaMedicamento5_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnInformeStock5" Content="Informe de Stock" HorizontalAlignment="Left" Margin="0,145,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock5_Click" MouseEnter="btnInformeStock5_MouseEnter" MouseLeave="btnInformeStock5_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnRevisarPrescripcion5" Content="Revisar Prescripcion" HorizontalAlignment="Left" Margin="0,173,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion5_Click" MouseEnter="btnRevisarPrescripcion5_MouseEnter" MouseLeave="btnRevisarPrescripcion5_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnMedicamentoReservado5" Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="0,201,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado5_Click" MouseEnter="btnMedicamentoReservado5_MouseEnter" MouseLeave="btnMedicamentoReservado5_MouseLeave" Grid.ColumnSpan="2"/>
+                    <Rectangle x:Name="abrir_usuario5" HorizontalAlignment="Left" Height="33" Margin="604,437,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario5_MouseEnter" Fill="White" Opacity="0" Grid.Column="1"/>
+                    <Controls:Flyout x:Name="flyUsuario5" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right" Grid.Column="1">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imgUser5" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion5" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion5_Click"/>
+                            <TextBox x:Name="txtUserr5" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" BorderThickness="0" Canvas.Left="29" Canvas.Top="77"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                    <ListView x:Name="listView" Grid.Column="1" HorizontalAlignment="Left" Height="198" Margin="80,108,0,0" VerticalAlignment="Top" Width="356">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Label x:Name="label9_Copy1" Content="Medicamentos" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" FontWeight="Bold" FontSize="18" FontStyle="Italic" Margin="148,53,0,0" Grid.Column="1">
+                        <Label.Effect>
+                            <DropShadowEffect/>
+                        </Label.Effect>
+                    </Label>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="6">
+                <Grid>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Grid HorizontalAlignment="Left" Height="250" Margin="204,70,0,0" VerticalAlignment="Top" Width="361" Background="#FFFFF4F4" Opacity="0.7"/>
+                    <Label Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="204,17,0,0" VerticalAlignment="Top" Width="289" FontSize="16" Foreground="White" FontWeight="Bold" FontStyle="Italic"/>
+                    <Grid HorizontalAlignment="Left" Height="470" VerticalAlignment="Top" Width="179" Background="#FF0F0F0F" Opacity="0.9">
+                        <Button x:Name="btnIngresarMedicamento1_Copy5" Content="" Margin="0,16.333,44.667,0" VerticalAlignment="Top" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" HorizontalAlignment="Right" Width="29" Click="btnIngresarMedicamento1_Copy5_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="btnStockM_7" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Copy_Click" MouseEnter="btnStockM_Copy_MouseEnter" MouseLeave="btnStockM_Copy_MouseLeave"/>
+                    </Grid>
+                    <Canvas Margin="9,15,668,431">
+                        <Label Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="10"/>
+                    </Canvas>
+                    <Button x:Name="btnIngresarMedicamento6" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento6_Click" MouseEnter="btnIngresarMedicamento6_MouseEnter" MouseLeave="btnIngresarMedicamento6_MouseLeave"/>
+                    <Button x:Name="btnBajaMedicamento6" Content="Baja de Medicamento" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento6_Click" MouseEnter="btnBajaMedicamento6_MouseEnter" MouseLeave="btnBajaMedicamento6_MouseLeave"/>
+                    <Button x:Name="btnInformeStock6" Content="Informe de Stock" HorizontalAlignment="Left" Margin="0,145,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock6_Click" MouseEnter="btnInformeStock6_MouseEnter" MouseLeave="btnInformeStock6_MouseLeave"/>
+                    <Button x:Name="btnRevisarPrescripcion6" Content="Revisar Prescripcion" HorizontalAlignment="Left" Margin="0,173,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion6_Click" MouseEnter="btnRevisarPrescripcion6_MouseEnter" MouseLeave="btnRevisarPrescripcion6_MouseLeave"/>
+                    <Button x:Name="btnMedicamentoReservado6" Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="0,201,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado6_Click" MouseEnter="btnMedicamentoReservado6_MouseEnter" MouseLeave="btnMedicamentoReservado6_MouseLeave"/>
+                    <Rectangle x:Name="abrir_usuario6" HorizontalAlignment="Left" Height="33" Margin="765,437,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario6_MouseEnter" Fill="White" Opacity="0"/>
+                    <Controls:Flyout x:Name="flyUsuario6" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imgUser6" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion6" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion6_Click"/>
+                            <TextBox x:Name="txtUserr6" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderThickness="0" Canvas.Left="28" Canvas.Top="77"/>
+                            <TextBox x:Name="txtUserr9" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderThickness="0" Canvas.Left="10" Canvas.Top="77"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                    <Button x:Name="btnMedReservados" Content="Generar Informe de Medicamentos Reservados" HorizontalAlignment="Left" Margin="218,352,0,0" VerticalAlignment="Top" Width="330"/>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="7">
+                <Grid>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF10426C" Offset="0.39"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Label Content="Stock" HorizontalAlignment="Left" Margin="204,17,0,0" VerticalAlignment="Top" Width="289" FontSize="16" Foreground="White" FontWeight="Bold" FontStyle="Italic"/>
+                    <Grid HorizontalAlignment="Left" Height="470" VerticalAlignment="Top" Width="179" Background="#FF0F0F0F" Opacity="0.9">
+                        <Button x:Name="btnIngresarMedicamento1_Copy6" Content="" Margin="0,16.333,44.667,0" VerticalAlignment="Top" Height="26.667" FontSize="10" Opacity="0.9" BorderThickness="0,1,0,0" MouseEnter="btnIngresarMedicamento1_MouseEnter" MouseLeave="btnIngresarMedicamento1_MouseLeave" BorderBrush="{x:Null}" HorizontalAlignment="Right" Width="29" Click="btnIngresarMedicamento1_Copy5_Click">
+                            <Button.Foreground>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Foreground>
+                            <Button.Background>
+                                <ImageBrush ImageSource="atras.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="btnStockM_6" Content="Stock" HorizontalAlignment="Left" Margin="0,116,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnStockM_Click" MouseEnter="btnStockM_MouseEnter" MouseLeave="btnStockM_MouseLeave"/>
+                    </Grid>
+                    <Canvas Margin="9,15,668,431">
+                        <Label Content="Menu Principal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.519,2.808" Foreground="#FFEAD3D3" Canvas.Left="10"/>
+                    </Canvas>
+                    <Button x:Name="btnIngresarMedicamento7" Content="Ingresar Medicamento" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnIngresarMedicamento6_Click" MouseEnter="btnIngresarMedicamento6_MouseEnter" MouseLeave="btnIngresarMedicamento6_MouseLeave"/>
+                    <Button x:Name="btnBajaMedicamento7" Content="Baja de Medicamento" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnBajaMedicamento6_Click" MouseEnter="btnBajaMedicamento6_MouseEnter" MouseLeave="btnBajaMedicamento6_MouseLeave"/>
+                    <Button x:Name="btnInformeStock7" Content="Informe de Stock" HorizontalAlignment="Left" Margin="0,145,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnInformeStock6_Click" MouseEnter="btnInformeStock6_MouseEnter" MouseLeave="btnInformeStock6_MouseLeave"/>
+                    <Button x:Name="btnRevisarPrescripcion7" Content="Revisar Prescripcion" HorizontalAlignment="Left" Margin="0,173,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1,1,1,0" BorderBrush="#FFCFCFCF" Click="btnRevisarPrescripcion6_Click" MouseEnter="btnRevisarPrescripcion6_MouseEnter" MouseLeave="btnRevisarPrescripcion6_MouseLeave"/>
+                    <Button x:Name="btnMedicamentoReservado7" Content="Informe Medicamentos Reservados" HorizontalAlignment="Left" Margin="0,201,0,0" VerticalAlignment="Top" Width="179" Height="28" FontSize="10" Background="Black" Foreground="White" Opacity="0.9" BorderThickness="1" BorderBrush="#FFCFCFCF" Click="btnMedicamentoReservado6_Click" MouseEnter="btnMedicamentoReservado6_MouseEnter" MouseLeave="btnMedicamentoReservado6_MouseLeave"/>
+                    <Rectangle x:Name="abrir_usuario7" HorizontalAlignment="Left" Height="33" Margin="765,437,0,0" VerticalAlignment="Top" Width="53" MouseEnter="abrir_usuario7_MouseEnter" Fill="White" Opacity="0"/>
+                    <Controls:Flyout x:Name="flyUsuario7" Width="196" Background="#FF23272E" Opacity="0.9" Header="Usuario" Foreground="#FFFFF4F4" RenderTransformOrigin="0.5,0.5" Position="Right">
+                        <Controls:Flyout.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="0.054"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Controls:Flyout.RenderTransform>
+                        <Canvas>
+                            <Image x:Name="imgUser1" Height="72" Canvas.Left="51" Width="77" Source="Img/User-Login.png"/>
+                            <Button x:Name="btnCerrarSesion7" Content="Cerrar Sesion" Canvas.Left="38" Canvas.Top="127" Width="114" Height="28" BorderBrush="#FF0027AA" Foreground="#FF0E208F" Click="btnCerrarSesion6_Click"/>
+                            <TextBox x:Name="txtUserr7" HorizontalAlignment="Left" IsReadOnly="True" Background="Transparent"  Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderThickness="0" Canvas.Left="10" Canvas.Top="96"/>
+                        </Canvas>
+                    </Controls:Flyout>
+                    <Label x:Name="label" Content="Nombre" HorizontalAlignment="Left" Margin="214,86,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label1" Content="Cantidad" HorizontalAlignment="Left" Margin="214,125,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtCantidad1" HorizontalAlignment="Left" Height="23" Margin="297,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57"/>
+                    <Button x:Name="btnStock" Content="Stock" HorizontalAlignment="Left" Margin="297,173,0,0" VerticalAlignment="Top" Width="70" Height="23" FontSize="10" Background="#FF252323" Foreground="#FFE2DCDC" Opacity="0.8" Click="btnIngresarStock_Click"/>
+                    <ComboBox x:Name="cboMedicamento" HorizontalAlignment="Left" Margin="297,89,0,0" VerticalAlignment="Top" Width="120"/>
+                </Grid>
+            </Controls:MetroTabItem>
+        </Controls:MetroTabControl>
+    </Grid>
+</Controls:MetroWindow>

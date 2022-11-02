@@ -1,0 +1,14 @@
+SMAP
+indexRecepcionista_jsp.java
+JSP
+*S JSP
+*F
++ 0 indexRecepcionista.jsp
+indexRecepcionista.jsp
++ 1 navbarRecepcionista.jsp
+navbarRecepcionista.jsp
+*L
+5,11:49
+5#1,72:60
+15#0,6:131
+*E

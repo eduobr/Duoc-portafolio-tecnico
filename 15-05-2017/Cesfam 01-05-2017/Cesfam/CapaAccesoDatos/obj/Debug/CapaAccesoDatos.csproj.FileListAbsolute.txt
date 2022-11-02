@@ -1,0 +1,25 @@
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\LC1300XXXX\Desktop\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LC1300XXXX\Desktop\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LC1300XXXX\Desktop\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Desktop\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\LC1300XXXX\Desktop\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\15-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\15-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\15-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\15-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\15-05-2017\Cesfam 01-05-2017\Cesfam\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

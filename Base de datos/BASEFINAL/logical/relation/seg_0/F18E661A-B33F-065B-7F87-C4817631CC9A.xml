@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="MERMA_STOCKDISPONIBLE_FK" directorySegmentName="seg_0" id="F18E661A-B33F-065B-7F87-C4817631CC9A">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>B9EE1BAA-1D39-8F64-0FDF-569604A1359C</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<sourcePk>88A88F50-FBA1-8D4D-D6DE-8F5FA0347BBE</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>96D1D74F-7383-A3B4-C379-1FF331E781E7</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>F121265F-F954-3928-D84E-871354AA3725</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

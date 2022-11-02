@@ -1,0 +1,76 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="ATENCION" directorySegmentName="seg_0" id="50A0B837-E271-D617-251F-A9165A44F9DE">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>331E66DD-967A-8621-C3FC-9B1F8AB2E9BD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="MEDICO_RUT" id="6D489EB1-64D1-B5EE-4206-6ADCF2FDC49D">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="FECATENCION" id="6D58D68D-D26E-DE71-A15B-393B3C631347">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PACIENTE_RUT" id="A1E0FA67-4049-E136-007F-BA91E357DAAD">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ID_ATENCION" id="D7EE2DF7-CB2B-EC50-D6CD-DFD595CC8D61">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="BOX" id="E2F8FA52-3EBD-7370-A7C8-53C30E5213FF">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="ATENCION_PK" id="BA723B19-B431-B6C9-8AA9-C6DF0B6A92EB">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<schemaObject>2C91B959-70F0-24BF-AB39-1DB348B2E1A9</schemaObject>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="ATENCION_MEDICO_FK" id="F7ED325A-B597-368C-998C-6F588F033B73">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="ATENCION_PACIENTE_FK" id="FA42F9E8-56C7-7B36-CA27-C12686CA2F11">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="ATENCION_PK" id="1EAB5D71-0ECF-318A-0A54-035B80037808">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<segment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</segment>
+<tableSpace>266CF93E-BDFC-E26D-D851-AE46C2C1D16E</tableSpace>
+<existingIndex>BA723B19-B431-B6C9-8AA9-C6DF0B6A92EB</existingIndex>
+<indexSegment>5CE3D3A8-1D96-0EAD-3D65-8E9D5A7060FD</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

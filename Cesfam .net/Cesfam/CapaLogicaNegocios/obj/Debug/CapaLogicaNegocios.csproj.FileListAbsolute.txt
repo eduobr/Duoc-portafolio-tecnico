@@ -1,0 +1,120 @@
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\Edd\Desktop\3-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\bin\Debug\CapaConexion.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb

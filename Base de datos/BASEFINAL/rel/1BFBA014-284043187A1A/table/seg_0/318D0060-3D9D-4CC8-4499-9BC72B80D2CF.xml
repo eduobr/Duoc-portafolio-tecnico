@@ -1,0 +1,183 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="318D0060-3D9D-4CC8-4499-9BC72B80D2CF" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="MEDICO">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="RUT" id="39F6F9EF-6D7B-F323-7C1D-B2A5E83284A7">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>RUT</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>13 BYTE</dataTypeSize>
+<ownDataTypeParameters>13 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOMBRE" id="64CA6E82-E7A0-5316-BBCA-B8D3A4F4D514">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>NOMBRE</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="APELLIDOP" id="71846B88-B3E1-169A-C590-D545C70EE98E">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>APELLIDOP</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="APELLIDOM" id="A24A6111-F87D-4DB0-F902-0F6CB07F0B7A">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>APELLIDOM</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="EDAD" id="CD25CD1C-494F-8CAC-CB13-D7549C85A1D1">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>EDAD</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TELEFONO" id="74ACE6DE-BC02-ABFA-4AEC-FAFABAC9BD30">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>TELEFONO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15 BYTE</dataTypeSize>
+<ownDataTypeParameters>15 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ESPECIALIDAD" id="21AE9425-C802-086A-387C-124AB5416C75">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>ESPECIALIDAD</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="USUARIO_IDUSUARIO" id="C711F301-BE49-94C0-E412-AC7D19F3D17B">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>MEDICO</sourceObjSchema>
+<sourceObjName>USUARIO_IDUSUARIO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="798BFFBF-51CB-BB2C-3B7F-A482E1B61102" referredColumn="EBFA80E1-6E85-EAB7-8334-46AD10179E98"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="AFF07A3E-5925-8516-6204-CEACD4458F98" name="MEDICO_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICO_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="39F6F9EF-6D7B-F323-7C1D-B2A5E83284A7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4B29268A-C8CF-D26D-F2BC-E8BCA7081C69" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="MEDICO__IDX">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICO__IDX</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C711F301-BE49-94C0-E412-AC7D19F3D17B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="67C1472A-5E86-48DE-4A0B-B913C5516030" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="MEDICO_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>MEDICO_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="39F6F9EF-6D7B-F323-7C1D-B2A5E83284A7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="3F1BFABE-D884-AE7F-092A-FC6975D1306C" name="MEDICO_USUARIO_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C711F301-BE49-94C0-E412-AC7D19F3D17B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

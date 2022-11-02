@@ -1,0 +1,14 @@
+SMAP
+atencionPaciente_jsp.java
+JSP
+*S JSP
+*F
++ 0 atencionPaciente.jsp
+atencionPaciente.jsp
++ 1 navbar.jsp
+navbar.jsp
+*L
+5,12:49
+5#1,73:61
+16#0,153:133
+*E

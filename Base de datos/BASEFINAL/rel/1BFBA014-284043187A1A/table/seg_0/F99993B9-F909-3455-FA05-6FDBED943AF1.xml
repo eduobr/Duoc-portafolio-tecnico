@@ -1,0 +1,184 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F99993B9-F909-3455-FA05-6FDBED943AF1" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="FUNCIONARIO">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>FUNCIONARIO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="RUT" id="7EA49559-EF31-E262-09EB-DF8A48306AD6">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>RUT</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>13 BYTE</dataTypeSize>
+<ownDataTypeParameters>13 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOMBRE" id="B77F0831-E00C-4A1B-CDEC-E7D108DFBE99">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>NOMBRE</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="APELLIDOP" id="58F8C4FC-D426-B553-1338-6FEB38790675">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>APELLIDOP</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="APELLIDOM" id="C575C3E8-DA95-657F-0FB8-088625147E89">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>APELLIDOM</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>45 BYTE</dataTypeSize>
+<ownDataTypeParameters>45 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="EDAD" id="418883F8-2037-ED9A-F8CE-B985FB7FD3F4">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>EDAD</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TELEFONO" id="FD52DA3F-3BFA-692C-CECA-CC426F5D7128">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>TELEFONO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15 BYTE</dataTypeSize>
+<ownDataTypeParameters>15 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="EMAIL" id="C8E2DFD8-5B0E-974B-9A05-C61FC8E14904">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>EMAIL</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="USUARIO_IDUSUARIO" id="EC10EBB8-E4ED-A1AE-E3A7-0988FCE220E3">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>FUNCIONARIO</sourceObjSchema>
+<sourceObjName>USUARIO_IDUSUARIO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="55C472C9-164D-E869-228D-C496661F36FC" referredColumn="EBFA80E1-6E85-EAB7-8334-46AD10179E98"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="01F50B20-569D-6A40-72D1-E67C3A81AC48" name="FUNCIONARIO_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>FUNCIONARIO_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7EA49559-EF31-E262-09EB-DF8A48306AD6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="04E67902-8237-C1C3-9F2D-01FA7B854DE3" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="FUNCIONARIO__IDX">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>FUNCIONARIO__IDX</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EC10EBB8-E4ED-A1AE-E3A7-0988FCE220E3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="5A1ECC88-D010-4A62-29F1-A580FD307D5F" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="FUNCIONARIO_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>FUNCIONARIO_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7EA49559-EF31-E262-09EB-DF8A48306AD6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CC4CF31A-AD7C-7CBC-4039-B5BF484225DB" name="FUNCIONARIO_USUARIO_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EC10EBB8-E4ED-A1AE-E3A7-0988FCE220E3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

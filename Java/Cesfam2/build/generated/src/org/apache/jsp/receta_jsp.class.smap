@@ -1,0 +1,22 @@
+SMAP
+receta_jsp.java
+JSP
+*S JSP
+*F
++ 0 receta.jsp
+receta.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 contacto.jsp
+contacto.jsp
+*L
+5,11:50
+5#1,31:61
+36:92,3
+37,43:95
+15#0,16:137
+31:153,2
+32,120:155
+5#2,63:275
+151#0,4:337
+*E

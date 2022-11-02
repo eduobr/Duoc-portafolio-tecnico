@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="0D03A07C-3346-D414-F015-DF77F519E340" containerWithKeyObject="373F8746-A375-1D03-D633-EE15E4B21C66" localFKIndex="B3CC20B8-CE2A-0931-2FE3-41A72A98A127" name="RECETA_PRESCRIPCION_FK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RECETA_PRESCRIPCION_FK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>816A2340-2159-33A8-FEAE-9074EB639407</referredTableID>
+<keyObject>3FC327AB-9B5D-56C8-D208-77505EEF5D7B</keyObject>
+<referredKeyID>3FC327AB-9B5D-56C8-D208-77505EEF5D7B</referredKeyID>
+<mandatory>true</mandatory>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

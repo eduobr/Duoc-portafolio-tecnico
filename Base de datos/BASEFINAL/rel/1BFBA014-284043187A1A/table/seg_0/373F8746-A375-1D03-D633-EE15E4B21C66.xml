@@ -1,0 +1,172 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="373F8746-A375-1D03-D633-EE15E4B21C66" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="RECETA">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RECETA</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CODRECETA" id="9CE5CAC6-CC39-DE64-F985-C1BE678AA725">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>CODRECETA</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DURACIONMEDICACION" id="C12D0D5A-39FC-CE11-C9A1-0BCC8078D3CA">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>DURACIONMEDICACION</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CANTIDAD" id="FA2D57E1-36A9-06B9-0E0A-BB19B0E655ED">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>CANTIDAD</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ISENTREGADO" id="1DCC4EEE-AADA-F669-42EC-A1102B6D8068">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>ISENTREGADO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>10 BYTE</dataTypeSize>
+<ownDataTypeParameters>10 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRESCRIPCION_CODPRESCRIPCION" id="EBE130B2-452A-EA92-3D3C-14244C12B1F5">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>PRESCRIPCION_CODPRESCRIPCION</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="0D03A07C-3346-D414-F015-DF77F519E340" referredColumn="58BD20F3-7ED7-A68C-DE07-3F4BE5109296"/>
+</associations>
+</Column>
+<Column name="MEDICAMENTO_CODMEDICAMENTO" id="BE27FA8D-3845-CE20-225E-7130E3CDD74E">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>MEDICAMENTO_CODMEDICAMENTO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7321B1C8-38FE-7ED1-147F-04669C9E0143" referredColumn="33D99C7F-AED3-02CD-0795-A4FE5781AAD6"/>
+</associations>
+</Column>
+<Column name="ISRESERVADO" id="EC6C6644-AF91-C4C9-B63A-534A8DA8F1BD">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>RECETA</sourceObjSchema>
+<sourceObjName>ISRESERVADO</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>2 BYTE</dataTypeSize>
+<ownDataTypeParameters>2 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="B1695856-0CC9-3571-09B3-0019C743658A" name="RECETA_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RECETA_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9CE5CAC6-CC39-DE64-F985-C1BE678AA725"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DEE3B52B-B7A3-BF38-EE4E-0EAB49B40986" schemaObject="2C91B959-70F0-24BF-AB39-1DB348B2E1A9" name="RECETA_PK">
+<sourceConnName>BASEFINAL</sourceConnName>
+<sourceObjSchema>BASEFINAL</sourceObjSchema>
+<sourceObjName>RECETA_PK</sourceObjName>
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9CE5CAC6-CC39-DE64-F985-C1BE678AA725"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="03BECBE8-7B87-77E6-A7BF-C2BE4BDDDA82" name="RECETA_MEDICAMENTO_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BE27FA8D-3845-CE20-225E-7130E3CDD74E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="B3CC20B8-CE2A-0931-2FE3-41A72A98A127" name="RECETA_PRESCRIPCION_FK">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:14 UTC</createdTime>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EBE130B2-452A-EA92-3D3C-14244C12B1F5"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

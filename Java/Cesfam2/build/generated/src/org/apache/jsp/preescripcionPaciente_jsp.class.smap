@@ -1,0 +1,24 @@
+SMAP
+preescripcionPaciente_jsp.java
+JSP
+*S JSP
+*F
++ 0 preescripcionPaciente.jsp
+preescripcionPaciente.jsp
++ 1 navbar.jsp
+navbar.jsp
++ 2 contacto.jsp
+contacto.jsp
+*L
+5,11:50
+5#1,31:61
+36:92,3
+37,43:95
+15#0,15:137
+30:152,2
+31,26:154
+57:180,3
+58,93:183
+5#2,63:276
+150#0,4:338
+*E

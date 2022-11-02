@@ -1,0 +1,88 @@
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\Cesfam 25-04-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\lovey\Downloads\cesfam error\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Edd\Desktop\2-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Coke\Downloads\PORTAFOLIO NET\06-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Coke\Documents\Visual Studio 2015\Projects\17-05-2017\Cesfam 01-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\LC1300XXXX\Downloads\1\24-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+E:\5to\Portafolio de Titulo\cesfam 24-05-2017\1\24-05-2017\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\LC1300XXXX\Desktop\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+E:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+F:\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaConexion.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\Oracle.DataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\bin\Debug\CapaAccesoDatos.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.dll
+D:\Respaldo\Respaldo Duoc\Portafolio de titulo\Cesfam .net\Cesfam\CapaConexion\obj\Debug\CapaConexion.pdb

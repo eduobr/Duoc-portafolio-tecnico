@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="RESERVA_MEDICAMENTO_FK" directorySegmentName="seg_0" id="DF8FD083-903D-2C49-2489-4C95FC41655F">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>92672825-2376-23A8-1581-F968E481D466</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<sourcePk>5A058456-81C4-CE54-8357-5D2ED4EDEC39</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>03A53952-E8D5-9F40-3034-5AFC2BC33F99</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>62559CC9-00E3-7C36-493E-28515F493B33</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

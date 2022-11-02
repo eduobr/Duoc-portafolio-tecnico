@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="STOCKDISPONIBLE_MEDICAMENTO_FK" directorySegmentName="seg_0" id="B403B972-7E78-C465-53AF-1DE1822AE303">
+<createdBy>Edd</createdBy>
+<createdTime>2017-06-20 19:05:40 UTC</createdTime>
+<generatorID>E4228BA6-6FED-5CAC-C489-4753C7843200</generatorID>
+<ownerDesignName>BASEFINAL</ownerDesignName>
+<engineerTo>
+<item key="1BFBA014-8685-784B-258B-284043187A1A" value="true"/>
+</engineerTo>
+<sourcePk>5A058456-81C4-CE54-8357-5D2ED4EDEC39</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>03A53952-E8D5-9F40-3034-5AFC2BC33F99</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>96D1D74F-7383-A3B4-C379-1FF331E781E7</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
